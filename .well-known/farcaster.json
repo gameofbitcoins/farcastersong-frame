@@ -1,0 +1,11 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "Farcaster Jam",
+    "homeUrl": "https://gameofbitcoins.github.io/farcastersong-frame/",
+    "iconUrl": "https://gameofbitcoins.github.io/farcastersong-frame/farc.png",
+    "splashImageUrl": "https://gameofbitcoins.github.io/farcastersong-frame/farc.png",
+    "splashBackgroundColor": "#000000",
+    "description": "Play my crypto track directly from Warpcast"
+  }
+}
