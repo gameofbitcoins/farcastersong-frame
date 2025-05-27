@@ -1,11 +1,11 @@
 {
   "id": "gameofbitcoins.spotifyframe",
   "name": "Farcaster Jam",
-  "icon": "https://gameofbitcoins.github.io/farcaster-frame/farc.png",
+  "icon": "https://gameofbitcoins.github.io/farcastersong-frame/farc.png",
   "description": "Play my crypto track directly from Warpcast",
-  "url": "https://gameofbitcoins.github.io/farcaster-frame/",
+  "url": "https://gameofbitcoins.github.io/farcastersong-frame/",
   "developer": {
     "name": "Game of Bitcoins",
-    "url": "https://warpcast.com/gameofbitcoins"
+    "url": "https://farcaster.xyz/gameofbitcoins"
   }
 }
